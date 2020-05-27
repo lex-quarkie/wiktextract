@@ -1,5 +1,5 @@
 This is a fork of original https://github.com/tatuylonen/wiktextract (wiktextract)
-with PR pulled
+with PRs pulled
 
 Original README starts below:
 
