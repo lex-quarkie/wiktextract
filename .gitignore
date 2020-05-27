@@ -2,6 +2,8 @@ __pycache__
 build/
 MANIFEST
 dist/
+.python-version
+.idea
 *.egg-info/
 htmlcov
 htmlcov.new
