@@ -1,3 +1,8 @@
+This is a fork of original https://github.com/tatuylonen/wiktextract (wiktextract)
+with PR pulled
+
+Original README starts below:
+
 # Wiktextract
 
 This is a utility and Python package for for extracing data from Wiktionary.
